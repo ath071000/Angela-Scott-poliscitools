@@ -34,3 +34,4 @@ clean_political_data <- function(data) {
 
   return(data)
 }
+
